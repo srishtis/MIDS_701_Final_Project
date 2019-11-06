@@ -24,20 +24,21 @@ telemetry data containing data on the machines’ properties and the machine inf
 threat reports collected by Microsoft’s endpoint protection solution, Windows Defender. This data contains anonymized data from
 16.8M devices and has over 8,000,000 records of data. Some of the relevant variables in the dataset are:
 
-• MachineIdentifier - Individual machine ID
-• IsBeta - Defender state information e.g. false
-• HasTpm - True if machine has tpm
-• CountryIdentifier - ID for the country the machine is located in
-• CityIdentifier - ID for the city the machine is located in
-• GeoNameIdentifier - ID for the geographic region a machine is located in
-• Platform - Calculates platform name (of OS related properties and processor property)
-• Processor - This is the process architecture of the installed operating system
-• OsVer - Version of the current operating system
-• OsBuild - Build of the current operating system
-• OsSuite - Product suite mask for the current operating system.
-• OsPlatformSubRelease - Returns the OS Platform sub-release
-• Census_PrimaryDiskTotalCapacity - Amount of disk space on primary disk of the machine in MB
-• Census_PrimaryDiskTypeName - Friendly name of Primary Disk Type - HDD or SSD
+* MachineIdentifier - Individual machine ID
+* IsBeta - Defender state information e.g. false
+* HasTpm - True if machine has tpm
+* CountryIdentifier - ID for the country the machine is located in
+* CityIdentifier - ID for the city the machine is located in
+* GeoNameIdentifier - ID for the geographic region a machine is located in
+* Platform - Calculates platform name (of OS related properties and processor property)
+* Processor - This is the process architecture of the installed operating system
+* OsVer - Version of the current operating system
+* OsBuild - Build of the current operating system
+* OsSuite - Product suite mask for the current operating system.
+* OsPlatformSubRelease - Returns the OS Platform sub-release
+* Census_PrimaryDiskTotalCapacity - Amount of disk space on primary disk of the machine in MB
+* Census_PrimaryDiskTypeName - Friendly name of Primary Disk Type - HDD or SSD
+
 The complete data dictionary can be found in the data dictionary file.
 
 ## Project plan
