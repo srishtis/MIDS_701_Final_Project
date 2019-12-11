@@ -1,0 +1,12 @@
+---
+title: "Final Project Report- Windows Malware Attack Analysis"
+output: pdf_document
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+author: "Srishti Saha (ss1078)"
+always_allow_html: yes
+geometry: margin= 0.8cm
+---
+
+## Summary
+
+> This report covers the analysis of malware attacks on Windows Machines. The objective is to identify hardware and software characteristics of a Windows machine that makes it susceptible to malware attacks. The report talks about characteristics like the RAM, system capacity, hardware featuures like touch screen, screen size etc. and checks if they are significant variables to predict or determine a malware attack. Software features like teh Operating System, presence and the characteristics of Anti Virus software, firewall etc. to determine if these specifications are linked to the possibility of a malware attack.
