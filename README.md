@@ -1,4 +1,4 @@
-# MIDS_701_Final_Project
+# MIDS 701 Final Project
 Final Project- Machine Malware Prediction
 
 ## Overview
@@ -50,4 +50,18 @@ take another 3 days to close the project.
 
 Inspiration:
 [Kaggle Competition](https://www.kaggle.com/c/microsoft-malware-prediction/overview)
+
+## Final Model
+
+It was a bagging model:
+`mod6  <- randomForest(HasDetections ~ ., data = train_input,mtry=4)`
+
+This was a classification model with mtry=4 which means:
+
+* Number of trees: 500
+* No. of variables tried at each split: 4
+
+The model results were as follows:
+![Bagging Model Results](https://github.com/srishtis/MIDS_701_Final_Project/blob/master/Final%20Report/images/img15.PNG)
+![Bagging Model ROC](https://github.com/srishtis/MIDS_701_Final_Project/blob/master/Final%20Report/images/img16.PNG)
 
