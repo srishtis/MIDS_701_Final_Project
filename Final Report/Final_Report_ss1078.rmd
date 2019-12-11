@@ -124,6 +124,18 @@ kable(imbalance_dataframe, caption = "Check for imbalance of data") %>% kable_st
 
 > The AUC was 62.8%
 
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.50\textwidth]{C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img15.PNG}
+\caption{Bagging: Model Results}
+\end{figure}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.50\textwidth]{C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img16.PNG}
+\caption{Bagging: ROC plot}
+\end{figure}
+
 ## Results
 
 >* What are the most important factors that determine the odds of a malware attack on a Microsoft machine? The top 3 most significant factors are: if the cable is always connected, is touch enabled and
@@ -250,6 +262,21 @@ The detailed definitions of the 30 predictors in the input dataset are mentioned
 \caption{QQ plot}
 \end{figure}
 
+#### Model Results:
+
+The accuracy is 54% and AUC is 56.1 (for threshold of 50%)
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.50\textwidth]{C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img17.PNG}
+\caption{Logistic Regression: Model Results}
+\end{figure}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.50\textwidth]{C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img18.PNG}
+\caption{Logistic Regression: ROC plot}
+\end{figure}
 
 
 

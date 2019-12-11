@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.9.4)  10 DEC 2019 23:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.9.4)  11 DEC 2019 13:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -906,206 +906,276 @@ has been already used, duplicate ignored
 l.350 \end{quote}
                   <c:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/i
 mages/img2.PNG>]
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 367.
+<C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img15.PNG, i
+d=110, 501.37312pt x 168.12813pt>
+File: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img15.P
+NG Graphic file (type png)
+<use C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img15.PN
+G>
+Package pdftex.def Info: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Re
+port/images/img15.PNG  used on input line 362.
+(pdftex.def)             Requested size: 284.40092pt x 95.36967pt.
+<C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img16.PNG, i
+d=111, 280.54813pt x 256.96pt>
+File: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img16.P
+NG Graphic file (type png)
+<use C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img16.PN
+G>
+Package pdftex.def Info: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Re
+port/images/img16.PNG  used on input line 368.
+(pdftex.def)             Requested size: 280.56882pt x 256.97896pt.
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 379.
 
 (c:/Users/srish/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [4]
+) [4pdfTeX warning (ext4): destination with the same identifier (name{figure.3}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.415 \end{quote}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{figure.4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.415 \end{quote}
+                  <c:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/i
+mages/img15.PNG> <c:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/im
+ages/img16.PNG>] [5]
 <C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img6.PNG, id
-=117, 562.1pt x 89.33376pt>
+=127, 562.1pt x 89.33376pt>
 File: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img6.PN
 G Graphic file (type png)
 <use C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img6.PNG
 >
 Package pdftex.def Info: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Re
-port/images/img6.PNG  used on input line 522.
+port/images/img6.PNG  used on input line 534.
 (pdftex.def)             Requested size: 284.38574pt x 45.197pt.
 <C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img7.PNG, id
-=118, 564.1075pt x 86.3225pt>
+=128, 564.1075pt x 86.3225pt>
 File: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img7.PN
 G Graphic file (type png)
 <use C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img7.PNG
 >
 Package pdftex.def Info: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Re
-port/images/img7.PNG  used on input line 527.
+port/images/img7.PNG  used on input line 539.
 (pdftex.def)             Requested size: 284.3857pt x 43.51808pt.
 <C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img8.PNG, id
-=119, 496.85625pt x 68.75688pt>
+=129, 496.85625pt x 68.75688pt>
 File: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img8.PN
 G Graphic file (type png)
 <use C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img8.PNG
 >
 Package pdftex.def Info: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Re
-port/images/img8.PNG  used on input line 532.
+port/images/img8.PNG  used on input line 544.
 (pdftex.def)             Requested size: 284.38611pt x 39.35443pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img9.PNG, id
-=120, 474.77374pt x 67.75313pt>
+=130, 474.77374pt x 67.75313pt>
 File: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img9.PN
 G Graphic file (type png)
 <use C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img9.PNG
 >
 Package pdftex.def Info: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Re
-port/images/img9.PNG  used on input line 537.
+port/images/img9.PNG  used on input line 549.
 (pdftex.def)             Requested size: 284.39555pt x 40.58498pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img10.PNG, i
-d=121, 489.32813pt x 67.75313pt>
+d=131, 489.32813pt x 67.75313pt>
 File: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img10.P
 NG Graphic file (type png)
 <use C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img10.PN
 G>
 Package pdftex.def Info: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Re
-port/images/img10.PNG  used on input line 542.
+port/images/img10.PNG  used on input line 554.
 (pdftex.def)             Requested size: 284.3929pt x 39.37746pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img11.PNG, i
-d=122, 467.24562pt x 67.75313pt>
+d=132, 467.24562pt x 67.75313pt>
 File: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img11.P
 NG Graphic file (type png)
 <use C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img11.PN
 G>
 Package pdftex.def Info: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Re
-port/images/img11.PNG  used on input line 547.
+port/images/img11.PNG  used on input line 559.
 (pdftex.def)             Requested size: 284.39912pt x 41.23938pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img12.PNG, i
-d=123, 523.9575pt x 67.75313pt>
+d=133, 523.9575pt x 67.75313pt>
 File: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img12.P
 NG Graphic file (type png)
 <use C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img12.PN
 G>
 Package pdftex.def Info: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Re
-port/images/img12.PNG  used on input line 552.
+port/images/img12.PNG  used on input line 564.
 (pdftex.def)             Requested size: 284.38791pt x 36.77429pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img4.PNG, id
-=124, 376.90813pt x 349.305pt>
+=134, 376.90813pt x 349.305pt>
 File: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img4.PN
 G Graphic file (type png)
 <use C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img4.PNG
 >
 Package pdftex.def Info: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Re
-port/images/img4.PNG  used on input line 561.
+port/images/img4.PNG  used on input line 573.
 (pdftex.def)             Requested size: 284.38274pt x 263.55577pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img5.PNG, id
-=125, 309.155pt x 294.60063pt>
+=135, 309.155pt x 294.60063pt>
 File: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img5.PN
 G Graphic file (type png)
 <use C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img5.PNG
 >
 Package pdftex.def Info: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Re
-port/images/img5.PNG  used on input line 567.
+port/images/img5.PNG  used on input line 579.
 (pdftex.def)             Requested size: 284.4119pt x 271.02237pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img3.PNG, id
-=126, 403.00563pt x 349.305pt>
+=136, 403.00563pt x 349.305pt>
 File: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img3.PN
 G Graphic file (type png)
 <use C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img3.PNG
 >
 Package pdftex.def Info: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Re
-port/images/img3.PNG  used on input line 573.
+port/images/img3.PNG  used on input line 585.
 (pdftex.def)             Requested size: 284.38342pt x 246.48924pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img13.PNG, i
-d=127, 276.53313pt x 241.90375pt>
+d=137, 276.53313pt x 241.90375pt>
 File: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img13.P
 NG Graphic file (type png)
 <use C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img13.PN
 G>
 Package pdftex.def Info: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Re
-port/images/img13.PNG  used on input line 585.
+port/images/img13.PNG  used on input line 597.
 (pdftex.def)             Requested size: 276.54509pt x 241.91422pt.
-[5 <c:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img6.PNG>
+[6 <c:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img6.PNG>
  <c:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img7.PNG>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img14.PNG, i
-d=170, 280.04625pt x 247.92625pt>
+d=180, 280.04625pt x 247.92625pt>
 File: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img14.P
 NG Graphic file (type png)
 <use C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img14.PN
 G>
 Package pdftex.def Info: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Re
-port/images/img14.PNG  used on input line 591.
+port/images/img14.PNG  used on input line 603.
 (pdftex.def)             Requested size: 280.04555pt x 247.92564pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 596.
-[6pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) 
+<C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img17.PNG, i
+d=181, 503.38063pt x 169.63374pt>
+File: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img17.P
+NG Graphic file (type png)
+<use C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img17.PN
+G>
+Package pdftex.def Info: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Re
+port/images/img17.PNG  used on input line 614.
+(pdftex.def)             Requested size: 284.38754pt x 95.83546pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img18.PNG, i
+d=182, 250.9375pt x 257.96375pt>
+File: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img18.P
+NG Graphic file (type png)
+<use C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/images/img18.PN
+G>
+Package pdftex.def Info: C:/Users/srish/Desktop/MIDS_701_Final_Project/Final Re
+port/images/img18.PNG  used on input line 620.
+(pdftex.def)             Requested size: 250.95984pt x 257.98671pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 625.
+[7pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.596 \end{document}
+l.625 \end{document}
                      <c:/Users/srish/Desktop/MIDS_701_Final_Project/Final Repor
 t/images/img8.PNG> <c:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/
 images/img9.PNG> <c:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/im
 ages/img10.PNG> <c:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/ima
 ges/img11.PNG> <c:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/imag
 es/img12.PNG> <c:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/image
-s/img4.PNG>] [7pdfTeX warning (ext4): destination with the same identifier (nam
-e{figure.4}) has been already used, duplicate ignored
+s/img4.PNG>] [8pdfTeX warning (ext4): destination with the same identifier (nam
+e{figure.6}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.596 \end{document}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{figure.5}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.596 \end{document}
-                     <c:/Users/srish/Desktop/MIDS_701_Final_Project/Final Repor
-t/images/img5.PNG> <c:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/
-images/img3.PNG>] [8pdfTeX warning (ext4): destination with the same identifier
- (name{figure.6}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.596 \end{document}
+l.625 \end{document}
                     pdfTeX warning (ext4): destination with the same identifier
  (name{figure.7}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.596 \end{document}
+l.625 \end{document}
+                     <c:/Users/srish/Desktop/MIDS_701_Final_Project/Final Repor
+t/images/img5.PNG> <c:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/
+images/img3.PNG>] [9pdfTeX warning (ext4): destination with the same identifier
+ (name{figure.8}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.625 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{figure.9}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.625 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{figure.10}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.625 \end{document}
                      <c:/Users/srish/Desktop/MIDS_701_Final_Project/Final Repor
 t/images/img13.PNG> <c:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report
-/images/img14.PNG>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 596.
+/images/img14.PNG> <c:/Users/srish/Desktop/MIDS_701_Final_Project/Final Report/
+images/img17.PNG>] [10pdfTeX warning (ext4): destination with the same identifi
+er (name{figure.11}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.625 \end{document}
+                     <c:/Users/srish/Desktop/MIDS_701_Final_Project/Final Repor
+t/images/img18.PNG>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 625.
 (./Final_Report_ss1078.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 596.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 596.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 625.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 625.
 Package rerunfilecheck Info: File `Final_Report_ss1078.out' has not changed.
 (rerunfilecheck)             Checksum: DAE543FAB77E27746A997F58A135F2EC;2085.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 596.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 625.
  ) 
 Here is how much of TeX's memory you used:
- 12227 strings out of 494553
- 177717 string characters out of 6175972
- 256728 words of memory out of 5000000
- 15619 multiletter control sequences out of 15000+600000
+ 12252 strings out of 494553
+ 179095 string characters out of 6175972
+ 256766 words of memory out of 5000000
+ 15636 multiletter control sequences out of 15000+600000
  40651 words of font info for 40 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  28i,9n,35p,290b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1118,10 +1188,10 @@ ublic/lm/lmr10.pfb><c:/Users/srish/AppData/Roaming/TinyTeX/texmf-dist/fonts/typ
 e1/public/lm/lmr17.pfb><c:/Users/srish/AppData/Roaming/TinyTeX/texmf-dist/fonts
 /type1/public/lm/lmri10.pfb><c:/Users/srish/AppData/Roaming/TinyTeX/texmf-dist/
 fonts/type1/public/lm/lmri12.pfb>
-Output written on Final_Report_ss1078.pdf (8 pages, 623094 bytes).
+Output written on Final_Report_ss1078.pdf (10 pages, 694586 bytes).
 PDF statistics:
- 246 PDF objects out of 1000 (max. 8388607)
- 200 compressed objects within 2 object streams
- 84 named destinations out of 1000 (max. 500000)
- 207 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 271 PDF objects out of 1000 (max. 8388607)
+ 214 compressed objects within 3 object streams
+ 92 named destinations out of 1000 (max. 500000)
+ 227 words of extra memory for PDF output out of 10000 (max. 10000000)
 
